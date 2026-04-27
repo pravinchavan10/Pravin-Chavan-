@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A sophisticated AI companion inspired by Jarvis, voiced by Bunty. Features a natural Hinglish persona, holographic system interface, and ultra-stable voice controls for system operations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Assistant", "Voice Control", "Holographic UI"]
+}
