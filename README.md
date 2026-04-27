@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 
 
 # MY JARVIS (PRAVIN CHAVAN)
